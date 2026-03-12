@@ -1,0 +1,11 @@
+texto,categoria
+"Meu pagamento foi cobrado duas vezes no cartão",financeiro
+"Não consigo acessar minha conta",tecnico
+"O sistema está travando quando faço login",tecnico
+"Gostaria de saber o preço do plano premium",comercial
+"Preciso da segunda via da minha fatura",financeiro
+"O aplicativo fecha sozinho",tecnico
+"Quero falar com o setor de vendas",comercial
+"Meu cartão foi cobrado errado",financeiro
+"Não consigo resetar minha senha",tecnico
+"Gostaria de contratar o plano empresarial",comercial
