@@ -119,8 +119,3 @@ Integration with real support systems
 Author
 
 Lucas Cunha de Alvarenga
-
-
-git add README.md
-git commit -m "Improve project documentation"
-git push origin main
