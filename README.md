@@ -92,29 +92,29 @@ customer-support-ai
 
 ## Technologies
 
-Python
+- Python
 
-FastAPI
+- FastAPI
 
-Scikit-learn
+- Scikit-learn
 
-Pandas
+- Pandas
 
-Uvicorn
+- Uvicorn
 
 ## Future Improvements
 
-Possible enhancements for the project:
+- Possible enhancements for the project:
 
-Email summarization using NLP
+- Email summarization using NLP
 
-Model performance evaluation
+- Model performance evaluation
 
-Larger training dataset
+- Larger training dataset
 
-Deployment with Docker
+- Deployment with Docker
 
-Integration with real support systems
+- Integration with real support systems
 
 ## Author
 
