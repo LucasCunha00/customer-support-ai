@@ -89,6 +89,21 @@ customer-support-ai
 ├── utils
 │
 └── README.md
+## Model Evaluation
+
+The model was evaluated using a test split from the dataset.
+
+Current evaluation results (small dataset):
+
+Accuracy: 1.00
+
+Confusion Matrix:
+
+[[1 0 0]
+ [0 1 0]
+ [0 0 1]]
+
+Note: results are limited by the small dataset and will improve as more labeled examples are added.
 
 ## Technologies
 
