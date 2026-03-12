@@ -71,7 +71,7 @@ Response:
   "categoria": "financeiro",
   "prioridade": "alta"
 }
-
+```
 ## Project Structure
 
 customer-support-ai
@@ -90,7 +90,7 @@ customer-support-ai
 │
 └── README.md
 
-Technologies
+## Technologies
 
 Python
 
@@ -102,7 +102,7 @@ Pandas
 
 Uvicorn
 
-Future Improvements
+## Future Improvements
 
 Possible enhancements for the project:
 
@@ -116,6 +116,6 @@ Deployment with Docker
 
 Integration with real support systems
 
-Author
+## Author
 
 Lucas Cunha de Alvarenga
